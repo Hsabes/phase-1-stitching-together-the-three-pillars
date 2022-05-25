@@ -34,3 +34,7 @@ article.media-post > footer {
 article.media-post > footer ul {
   list-style-type: none;
 }
+
+article.media-post footer ul li.like span.like-glyph {
+  transition: 4s;
+}
